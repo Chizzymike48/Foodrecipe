@@ -1,0 +1,103 @@
+body{
+   background-color: rgb(232, 226, 226); 
+}
+
+.header{
+    background-color: whitesmoke; 
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    text-align: center;
+}
+
+.H-nav a{
+    justify-content: space-around;
+    text-decoration: none;
+    align-items: center;
+    margin-left: 50px;
+
+}
+    
+.imgg img{
+    width: 100px;
+    height: 100px;
+}
+.hotdog{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+    
+    
+    
+}
+.hotdog img{
+    width: 200px;
+    height: 200px;
+}
+
+.rice{
+     display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.rice img{
+     width: 200px;
+    height: 200px;
+}
+.Buns{
+     display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.Buns img{
+     width: 200px;
+    height: 200px;
+}
+.bread{
+     display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.bread img{
+     width: 200px;
+    height: 200px;
+}
+.tea{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.tea img{
+     width: 200px;
+    height: 200px;
+}
+.custard{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.custard img{
+   width: 200px;
+    height: 200px;
+
+}
+.mainaside{
+    display: flex;
+    gap: 100px;
+}
+aside img{
+    width: 250px;
+    border-radius: 50%;
+}
