@@ -8,6 +8,8 @@ body{
     flex-direction: row;
     text-decoration: none;
     text-align: center;
+    align-items: center;
+
 }
 
 .H-nav a{
@@ -91,7 +93,17 @@ body{
 .custard img{
    width: 200px;
     height: 200px;
-
+}
+.Abacha{
+     display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.Abacha img{
+    width: 200px;
+    height: 200px;
 }
 .mainaside{
     display: flex;
@@ -100,4 +112,14 @@ body{
 aside img{
     width: 250px;
     border-radius: 50%;
+}
+.mainaside2{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    color: brown;
+    font-size: 20px;
+    gap: 20px;
+    
+
 }
