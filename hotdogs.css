@@ -1,0 +1,46 @@
+.hot{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: #fafafa;
+    gap: 200px;
+}
+.hot img{
+    width: 400px;
+    height: 400px;
+}
+.hot{
+    margin: 20px;
+    border-left: 1px;
+    border-right: 1px;
+    padding: 20px;
+}
+
+.hot1{
+    width: 500px;
+}
+.hot1 h3{
+    color: brown;
+}
+.hot h2{
+    color: brown;
+}
+.hot2 h2{
+    color: brown;
+}
+.hot3{
+    background-color: whitesmoke;
+}
+.hot3 h2{
+    color: brown;
+}
+.vi{
+    background-color: whitesmoke;
+    padding: 20px 50px;
+    border: 1px;
+    list-style: numbers;
+    line-height: 40px;
+}
+.vi h2{
+    color: brown;
+    justify-content: center;
+}
