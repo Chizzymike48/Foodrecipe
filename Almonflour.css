@@ -1,0 +1,52 @@
+.itemg{
+    display: flex;
+    border: 1px solid brown;
+}
+.itemg h2{
+    color: brown;
+}
+
+.item1 img{
+    width: 400px;
+    height: 400px;
+}
+.item1{
+    padding:10px ;
+
+}
+.item2{
+    padding: 10px;
+}
+.item2 img{
+    width: 400px;
+    height: 400px;
+}
+.itemgg{
+    display: flex;
+    justify-content: space-between;
+}
+.itemgg img{
+    width: 500px;
+    height: 400px;
+}
+.itemgg h2{
+    color: brown;
+}
+.item3 h2{
+    color: brown;
+}
+.item4{
+    padding: 0px 5px;
+}
+.item6 h2{
+    color: brown;
+}
+.item7{
+    display: flex;
+    padding:10px;
+    justify-content: space-between;
+    border: 1px solid brown;
+}
+.item7 h2{
+    color: brown;
+}
