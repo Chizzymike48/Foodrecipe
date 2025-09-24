@@ -1,0 +1,39 @@
+
+.fufu{
+    display: flex;
+    gap: 350px;
+    padding: 20px;
+    border: 1px solid brown;
+}
+.fufu img{
+    width: 400px;
+    height: 400px;
+}
+.fufu h2{
+    color: brown;
+}
+.fufu1 h2{
+    color: brown;
+}
+.fufu2{
+    display: flex;
+    padding: 20px;
+    border: 1px solid brown;
+    gap: 400px;
+}
+.fufu2 img{
+    width: 400px;
+    height: 400px;
+}
+.fufu2 h2{
+    color: brown;
+}
+.fufu3{
+    display: flex;
+    padding: 20px;
+    border: 1px solid brown;
+    gap: 400px;
+}
+.fufu3 h2{
+    color: brown;
+}

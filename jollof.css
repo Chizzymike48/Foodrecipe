@@ -1,0 +1,58 @@
+.Jollof{
+    display: flex;
+    gap: 100px;
+    border: 1px solid brown;
+    text-align: center;
+    
+}
+.Jollof img{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
+.Jollof h2{
+    color: brown;
+    text-align: center;
+}
+.item1{
+    display: flex;
+    gap: 100px;
+    padding: 50px;
+    padding-bottom: 1px solid brown;
+}
+.item1 img{
+    width: 400px;
+    height: 400px;
+    padding-right: 20px;
+}
+.item1 h2{
+    color: brown;
+    text-align: center;
+}
+.item2{
+    display: flex;
+    gap: 100px;
+    padding: 50px;
+    border: 1px solid pink;
+}
+.item2 img{
+    width: 400px;
+    height: 400px;
+    padding-right: 20px;
+}
+.item2 h2,h4{
+    color: brown;
+}
+.item3{
+    display: flex;
+    gap: 100px;
+    padding: 50px;
+}
+.item3 img{
+    width: 400px;
+    height: 400px;
+    padding-right: 20px;
+}
+.item3 h2,h4{
+    color: brown;
+}

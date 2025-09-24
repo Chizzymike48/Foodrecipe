@@ -176,6 +176,61 @@ aside img{
     width: 250px;
     border-radius: 50%;
 }
+.yam{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.yam img{
+        width: 200px;
+        height: 200px;
+}
+.soup{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.soup img{
+        width: 200px;
+        height: 200px;
+}
+.Nsala{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.Nsala img{
+    width: 200px;
+    height: 200px;
+}
+.Ofada{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.Ofada img{
+    width: 200px;
+    height: 200px;
+}
+.Nkwobi{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 10px;
+    gap: 50px;
+}
+.Nkwobi img{
+    width: 200px;
+    height: 200px;
+}
 .mainaside2{
     display: flex;
     flex-direction: column;
